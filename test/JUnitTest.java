@@ -36,7 +36,7 @@ public class JUnitTest {
         test.removeAll();
     }
     
-    
+    //Nesze, itt egy megjegyzés
     
     
     @Test
